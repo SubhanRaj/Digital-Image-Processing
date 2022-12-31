@@ -25,7 +25,7 @@
     <a href="https://github.com/SubhanRaj/Digital-Image-Processing/blob/main/licence">
         <img src="https://img.shields.io/github/license/SubhanRaj/Digital-Image-Processing" alt="license" />
     </a>
-</p> r
+</p>
 
 
 
